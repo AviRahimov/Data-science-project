@@ -79,7 +79,9 @@ git clone https://github.com/AviRahimov/Data-science-project.git
 2. Run the main script to preprocess data, train models, and evaluate results:
 ```
 pip install jupyter
-jupyter notebook DataScience Project - Students performance (2) (1).ipynb
+```
+```
+jupyter notebook DataScience Project - Students performance (2).ipynb
 ```
 
 Enjoy exploring the world of machine learning and gender prediction with this project!
